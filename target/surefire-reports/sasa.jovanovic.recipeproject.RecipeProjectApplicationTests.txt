@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: sasa.jovanovic.recipeproject.RecipeProjectApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 52.68 s - in sasa.jovanovic.recipeproject.RecipeProjectApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 39.885 s - in sasa.jovanovic.recipeproject.RecipeProjectApplicationTests

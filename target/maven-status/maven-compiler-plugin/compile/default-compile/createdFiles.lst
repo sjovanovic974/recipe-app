@@ -1,0 +1,14 @@
+sasa\jovanovic\recipeproject\services\RecipeService.class
+sasa\jovanovic\recipeproject\domain\Recipe.class
+sasa\jovanovic\recipeproject\domain\Notes.class
+sasa\jovanovic\recipeproject\domain\UnitOfMeasure.class
+sasa\jovanovic\recipeproject\RecipeApplication.class
+sasa\jovanovic\recipeproject\controllers\IndexController.class
+sasa\jovanovic\recipeproject\domain\Ingredient.class
+sasa\jovanovic\recipeproject\domain\Difficulty.class
+sasa\jovanovic\recipeproject\domain\Category.class
+sasa\jovanovic\recipeproject\repositories\UnitOfMeasureRepository.class
+sasa\jovanovic\recipeproject\bootstrap\RecipeBootstrap.class
+sasa\jovanovic\recipeproject\services\RecipeServiceImpl.class
+sasa\jovanovic\recipeproject\repositories\RecipeRepository.class
+sasa\jovanovic\recipeproject\repositories\CategoryRepository.class

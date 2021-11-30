@@ -1,2 +1,14 @@
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\services\RecipeServiceImpl.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\domain\Notes.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\repositories\RecipeRepository.java
 C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\controllers\IndexController.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\domain\Recipe.java
 C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\RecipeApplication.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\domain\Ingredient.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\bootstrap\RecipeBootstrap.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\services\RecipeService.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\domain\Category.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\domain\Difficulty.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\domain\UnitOfMeasure.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\repositories\UnitOfMeasureRepository.java
+C:\Users\PC-Admin\IdeaProjects\Spring5\recipe-project\src\main\java\sasa\jovanovic\recipeproject\repositories\CategoryRepository.java
